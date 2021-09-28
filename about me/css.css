@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+body {
+    background-image: url(/imgs/triangle.png);    
+}
+
+header > h1 {
+    text-align: center;
+    color: rgb(90, 13, 214);
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    text-shadow: 1px 1px 2px black;
+    font-weight:bolder;
+    text-decoration: underline;
+}
+
+.pfp {
+    border-radius: 50%;
+    width: 225px;
+    margin-left: 790px;
+    text-align: center;
+    padding: 5px;
+    border: 2px solid rgb(98, 0, 255);
+    display:inline-block;
+    transition: all 0.3s ease;
+}
+
+.pfp:hover {
+    cursor:pointer 20px;
+    background:rgb(98, 0, 255);
+
+}
+
+.sci {
+    margin-left: 65%;
+    position: relative;
+    bottom: 292px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.hp {
+    margin-left: 65%;
+    position: relative;
+    bottom: 225px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+header > h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color:rgb(98, 0, 255);
+    text-shadow: 1px 1px 2px black;
+    font-weight:bolder;   
+    text-decoration: underline;
+}
+.tw {
+    position: relative;
+    margin-left: -800px;
+    width: 200px;
+    display:inline-block;
+}
+
+.rd {
+    position: relative;
+    margin-left: 15px;
+    width: 145px;
+    bottom: 24px;
+    
+}
+
+.ig {
+    position: relative;
+    margin-left: 55px;
+    width: 145px;
+    bottom: 24px;
+}
+
+.gh {
+    position: relative;
+    margin-left: 30px;
+    width: 140px;
+    bottom: 24px;
+}
+
+.ab {
+    margin-left: 65%;
+    position: relative;
+    bottom: 292px;
+    font-family: 'Roboto', sans-serif;
+    color: white;  
+}
+
+.am {
+    margin-left: 65%;
+    position: relative;
+    bottom: 225px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.mp {
+    margin-left: 65%;
+    position: relative;
+    bottom: 95px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.ms {
+    margin-left: 65%;
+    position: relative;
+    bottom: 95px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.pg1 {
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    color: rgb(98, 0, 255);
+    font-family: 'Roboto', sans-serif;    
+    position: relative;
+    font-size:large;
+    bottom: -19px;    
+    text-shadow: 1px 1px 2px black;
+}
+
+.hr {
+    margin-left: 52.9%;
+    position: relative;
+    bottom:43px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(98, 0, 255);
+    text-align: center;    
+    font-size:large;
+    text-shadow: 1px 1px 2px black;
+}
